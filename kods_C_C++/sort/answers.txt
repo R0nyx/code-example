@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?:  Performs the best in ideal case which refers to sorted array.
+
+sort2 uses: Merge Sort
+
+How do you know?: For unsorted values merge will always perform the quickest.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selective performs best when dealing with small arrays. When working with sorted data, even in
+ideal case (Sorted), selective sort would require n^2 steps which is the slowest one compared to rest.c
